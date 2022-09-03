@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -O2 -Wall -Wl,--enable-auto-import CMakeFiles/unshieldv3.dir/main.cpp.o CMakeFiles/unshieldv3.dir/ISArchiveV3.cpp.o CMakeFiles/unshieldv3.dir/blast.c.o -o unshieldv3.exe -Wl,--out-implib,libunshieldv3.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lstdc++fs 
